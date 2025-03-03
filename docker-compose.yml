@@ -1,0 +1,12 @@
+version: '3'
+services:
+  registry:
+    image: docker.n-educatio.pl/private-bower
+    ports:
+      - "5678:5678"
+      - "6789:6789"
+      - "7891:7891"
+    volumes:
+      - "./data:/data"
+      - "./bowerConfig.json:/home/private-bower/bowerConfig.json"
+      - "~/.ssh:/root/.ssh"
