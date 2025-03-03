@@ -10,5 +10,4 @@ services:
       - "7891:7891"
     volumes:
       - "./data:/data"
-      - "/home/private-bower/bowerConfig.json:/home/private-bower/bowerConfig.json"
       - "~/.ssh:/root/.ssh"
