@@ -2,8 +2,6 @@ version: '3'
 services:
   registry:
     image: docker.n-educatio.pl/private-bower
-    environment:
-      - ADDRESS=https://bower.n-educatio.pl
     ports:
       - "5678:5678"
       - "6789:6789"
