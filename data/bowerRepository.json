@@ -1,0 +1,222 @@
+{
+    "sweetalert": {
+        "name": "sweetalert",
+        "url": "git@github.com:t4t5/sweetalert.git"
+    },
+    "angular-off-click": {
+        "name": "angular-off-click",
+        "url": "git@github.com:TheSharpieOne/angular-off-click.git"
+    },
+    "google-diff-match-patch": {
+        "name": "google-diff-match-patch",
+        "url": "git@github.com:friedolinfoerder/google-diff-match-patch.git"
+    },
+    "angular-zendesk-widget": {
+        "name": "angular-zendesk-widget",
+        "url": "git@github.com:CrossLead/angular-zendesk-widget.git"
+    },
+    "angular-translate-loader-static-files": {
+        "name": "angular-translate-loader-static-files",
+        "url": "git@github.com:angular-translate/bower-angular-translate-loader-static-files.git"
+    },
+    "angular-scroll-pane": {
+        "name": "angular-scroll-pane",
+        "url": "git@github.com:geoffreybauduin/angular-scroll-pane.git"
+    },
+    "angular-ui-slider": {
+        "name": "angular-ui-slider",
+        "url": "git@github.com:angular-ui/ui-slider.git"
+    },
+    "jquery-cookie": {
+        "name": "jquery-cookie",
+        "url": "git@github.com:carhartl/jquery-cookie.git"
+    },
+    "angular-uuid-service": {
+        "name": "angular-uuid-service",
+        "url": "git@github.com:daniellmb/angular-uuid-service.git"
+    },
+    "ng-tags-input": {
+        "name": "ng-tags-input",
+        "url": "git@github.com:mbenford/ngTagsInput-bower.git"
+    },
+    "angular-drag-and-drop-lists": {
+        "name": "angular-drag-and-drop-lists",
+        "url": "git@github.com:marceljuenemann/angular-drag-and-drop-lists.git"
+    },
+    "jasmine-jquery": {
+        "name": "jasmine-jquery",
+        "url": "git@github.com:velesin/jasmine-jquery.git"
+    },
+    "angular-scrollable-table": {
+        "name": "angular-scrollable-table",
+        "url": "git@github.com:alalonde/angular-scrollable-table.git"
+    },
+    "angular-ui-ace": {
+        "name": "angular-ui-ace",
+        "url": "git@github.com:angular-ui/ui-ace.git"
+    },
+    "angular-inview": {
+        "name": "angular-inview",
+        "url": "git@github.com:thenikso/angular-inview.git"
+    },
+    "angular-local-storage": {
+        "name": "angular-local-storage",
+        "url": "git@github.com:grevory/angular-local-storage.git"
+    },
+    "angular-translate": {
+        "name": "angular-translate",
+        "url": "git@github.com:angular-translate/bower-angular-translate.git"
+    },
+    "angular-bootstrap": {
+        "name": "angular-bootstrap",
+        "url": "git@github.com:angular-ui/bootstrap-bower.git"
+    },
+    "animate.css": {
+        "name": "animate.css",
+        "url": "git@github.com:animate-css/animate.css.git"
+    },
+    "angular-ui-tinymce": {
+        "name": "angular-ui-tinymce",
+        "url": "git@github.com:angular-ui/ui-tinymce.git"
+    },
+    "angular-growl-v2": {
+        "name": "angular-growl-v2",
+        "url": "git@github.com:JanStevens/angular-growl-2.git"
+    },
+    "angular-bootstrap-colorpicker": {
+        "name": "angular-bootstrap-colorpicker",
+        "url": "git@github.com:buberdds/angular-bootstrap-colorpicker.git"
+    },
+    "angular-ui-sortable": {
+        "name": "angular-ui-sortable",
+        "url": "git@github.com:angular-ui/ui-sortable.git"
+    },
+    "seedrandom": {
+        "name": "seedrandom",
+        "url": "git@github.com:davidbau/seedrandom.git"
+    },
+    "sails.io.js": {
+        "name": "sails.io.js",
+        "url": "git@github.com:balderdashy/sails.io.js.git"
+    },
+    "angular-touch": {
+        "name": "angular-touch",
+        "url": "git@github.com:angular/bower-angular-touch.git"
+    },
+    "angular-ui-select": {
+        "name": "angular-ui-select",
+        "url": "git@github.com:angular-ui/ui-select.git"
+    },
+    "jquery-ui": {
+        "name": "jquery-ui",
+        "url": "git@github.com:components/jqueryui.git"
+    },
+    "angular-animate": {
+        "name": "angular-animate",
+        "url": "git@github.com:angular/bower-angular-animate.git"
+    },
+    "angular-file-upload": {
+        "name": "angular-file-upload",
+        "url": "git@github.com:nervgh/angular-file-upload.git"
+    },
+    "angular-resource": {
+        "name": "angular-resource",
+        "url": "git@github.com:angular/bower-angular-resource.git"
+    },
+    "angular-mocks": {
+        "name": "angular-mocks",
+        "url": "git@github.com:angular/bower-angular-mocks.git"
+    },
+    "angular-sanitize": {
+        "name": "angular-sanitize",
+        "url": "git@github.com:angular/bower-angular-sanitize.git"
+    },
+    "underscore": {
+        "name": "underscore",
+        "url": "git@github.com:jashkenas/underscore.git"
+    },
+    "ng-juxtapose": {
+        "name": "ng-juxtapose",
+        "url": "git@github.com:tinesoft/ng-juxtapose.git"
+    },
+    "angular-meditor": {
+        "name": "angular-meditor",
+        "url": "git@github.com:ghinda/angular-meditor.git"
+    },
+    "angular-cookies": {
+        "name": "angular-cookies",
+        "url": "git@github.com:angular/bower-angular-cookies.git"
+    },
+    "angular-ui-validate": {
+        "name": "angular-ui-validate",
+        "url": "git@github.com:angular-ui/ui-validate.git"
+    },
+    "less": {
+        "name": "less",
+        "url": "git@github.com:less/less.js.git"
+    },
+    "angular-ui-tree": {
+        "name": "angular-ui-tree",
+        "url": "git@github.com:angular-ui-tree/angular-ui-tree.git"
+    },
+    "components-font-awesome": {
+        "name": "components-font-awesome",
+        "url": "git@github.com:components/font-awesome.git"
+    },
+    "angular-ui-router": {
+        "name": "angular-ui-router",
+        "url": "git@github.com:angular-ui/angular-ui-router-bower.git"
+    },
+    "ionicons": {
+        "name": "ionicons",
+        "url": "git@github.com:ionic-team/ionicons.git"
+    },
+    "angular-ui-utils": {
+        "name": "angular-ui-utils",
+        "url": "git@github.com:angular-ui/ui-utils.git"
+    },
+    "jquery": {
+        "name": "jquery",
+        "url": "git@github.com:jquery/jquery.git"
+    },
+    "ace-builds": {
+        "name": "ace-builds",
+        "url": "git@github.com:ajaxorg/ace-builds.git"
+    },
+    "ua-parser-js": {
+        "name": "ua-parser-js",
+        "url": "git@github.com:faisalman/ua-parser-js.git"
+    },
+    "bootstrap": {
+        "name": "bootstrap",
+        "url": "git@github.com:twbs/bootstrap.git"
+    },
+    "angular": {
+        "name": "angular",
+        "url": "git@github.com:angular/bower-angular.git"
+    },
+    "fabric": {
+        "name": "fabric",
+        "url": "git@github.com:fabricjs/fabric.js.git"
+    },
+    "jquery-ui-touch-punch": {
+        "name": "jquery-ui-touch-punch",
+        "url": "git@github.com:furf/jquery-ui-touch-punch"
+    },
+    "jasmine": {
+        "name": "jasmine",
+        "url": "git@github.com:jasmine/jasmine.git"
+    },
+    "jscrollpane": {
+        "name": "jscrollpane",
+        "url": "git@github.com:vitch/jScrollPane.git"
+    },
+    "juxtapose": {
+        "name": "juxtapose",
+        "url": "git@github.com:NUKnightLab/juxtapose.git"
+    },
+    "tinymce": {
+        "name": "tinymce",
+        "url": "git@github.com:tinymce/tinymce-dist.git"
+    }
+}

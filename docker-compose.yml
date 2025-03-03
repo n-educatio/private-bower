@@ -1,0 +1,11 @@
+version: '3'
+services:
+  registry:
+    image: tandrup/private-bower
+    ports:
+      - "5678:5678"
+      - "6789:6789"
+      - "7891:7891"
+    volumes:
+      - /data:/data
+      - "~/.ssh:/root/.ssh"
